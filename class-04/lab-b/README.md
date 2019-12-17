@@ -1,4 +1,4 @@
-# Lab 04: RWD Portfolio
+# Lab 04b: RWD Portfolio
 
 ## Overview
 
@@ -68,7 +68,7 @@ Then the content should be unique and reflect the skills and personality of the 
 #### How are we implementing it?
 
 - Modify the contents of the template to make it your own. The HTML elements may remain the same if you like, but the content should be adapted to reflect your personal details and skills.
-- Apply the following changes, some of which were part of your pre-work for this course:
+- Apply the following changes, some of which were part of your prework for this course:
   - Next to the header image, add your name and a short, 2-3 word title.
   - In the Intro section, add a personal headline. This should be the same as or similar to your headline on your LinkedIn profile.
   - In the Portfolio section, state what you are excited about in tech. Add links to projects and include placeholders for future 301 and 401 projects. If you would like, you can add links to sites such as LinkedIn and GitHub here, or social sites.

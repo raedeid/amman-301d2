@@ -5,23 +5,27 @@ Below is a collection of resources of varying types and lengths which describe t
 **For your assignment, go through these resources, and create a wiki entry in your fork of the class repo that summarizes the principle topic as though you were presenting the material to a 201 level student.**
 
 Wiki Entry Ideas:
-* Blog Article (2-3 paragraphs with code sample)
-* Dictionary / Flash Cards
-* Notes in outline form
+
+- Blog Article (2-3 paragraphs with code sample)
+- Dictionary / Flash Cards
+- Notes in outline form
 
 ## Read
+
 - [CSS Grid Garden](https://cssgridgarden.com/){:target="_blank"}
   - Complete all steps of this tutorial
 
 ## Reference
+
 - [RegExr](https://regexr.com/){:target="_blank"} - Pay particular attention to the cheatsheet
 - [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285){:target="_blank"}
 - [Regex 101](https://regex101.com/){:target="_blank"}
 
 ## Bookmark
+
 - [CSS Grid Reference](https://css-tricks.com/snippets/css/complete-guide-grid/){:target="_blank"}
 - [Responsive design with CSS Grid](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df){:target="_blank"}
 
-## Discuss
+## Submission Instructions
 
 Reply to this discussion by pasting the full text of your wiki article. If you found yourself curious or found a topic unclear, ask a question to further your own knowledge.
