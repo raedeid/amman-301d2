@@ -1,0 +1,38 @@
+
+body {
+    background: #fff;
+  }
+
+ #slogan {
+    color: #a3a4a2;
+ }
+
+ hr{
+    background-image: url('../img/hr.png');
+ }
+ .print, .date {
+    color: #a9a8a5;
+    
+ }
+ #logo{
+    color: black;
+    
+  }
+  main p {
+    color: #333;
+  }
+  .recipe{
+    color: #666a42;
+    background-image: url("img/list-bg.png");
+  }
+  aside h3{
+    color: #555;
+
+  }
+  aside button{
+    color: #fff;
+    background: #b8705a;
+  }
+  footer section p{
+    color: #aaa;
+  }
