@@ -1,0 +1,52 @@
+
+#logo h1 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.4em;
+}
+#slogan {
+    font-family: 'Abel', sans-serif;
+    font-size: .65em;
+    text-transform: uppercase;
+  }
+ 
+
+.print, .date {
+
+    font-family: 'Abel', sans-serif;
+    font-size: .8em;
+    text-transform: uppercase;
+}
+.print {
+    text-decoration: none;
+} 
+
+main p {
+    font-size: 1.2em;
+  }
+  
+
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
+  .recipe {
+    letter-spacing: .1em;
+    font-family: 'Patrick Hand', cursive;
+   
+   
+  }
+  .recipe li{
+    font-size: 1.3em;
+
+  }
+  aside h3{
+    font-size: 1.6em;
+  }
+  aside button{
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    border: none;
+  }
+  section hr {
+    border-bottom: 1px solid #eee;
+  }
